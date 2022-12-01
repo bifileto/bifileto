@@ -9,7 +9,7 @@ I am Bianca Cruz, a front-end student from Brasil
 <!-- 🔭 I’m currently working on front-end -->
 - 🌱 I’m currently learning HTML, CSS and JS
 <!-- 👯 I’m looking to collaborate on -->
-- 🤔 I’m looking for help with HTML,CSS and JS
+- 🤔 I’m looking for help with Front-end Frameworks, Back-end and Database
 <!-- 💬 Ask me about ... -->
 - 📫 How to reach me: bifileto@gmail.com
 - 😄 Pronouns: she/her, ela/dela
