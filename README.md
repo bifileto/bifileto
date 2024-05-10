@@ -6,7 +6,7 @@ Here are some ideas to get you started:-->
 
 I am Bianca Cruz, a data-science student from Brasil
 
-<!-- 🔭 I’m currently studying data science on Univesp and also love to study web development -->
+- 🔭 I’m currently studying data science on Univesp and also love to study web development
 - 🌱 I’m currently learning HTML, CSS, JS and Python
 <!-- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with Front-end Frameworks, Back-end and Database
